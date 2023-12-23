@@ -1,2 +1,4 @@
 print("Hello World")
 printf("hello world");
+printf("Hello world")
+console.log("Hello world")
